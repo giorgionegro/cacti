@@ -39,10 +39,10 @@
  * SOFTWARE.
  *------------------------------------------------------------*/
 
-#include "io.h"
+#include "include/io.h"
 #include <iostream>
 
-#include "Ucache.h"
+#include "include/Ucache.h"
 
 using namespace std;
 
